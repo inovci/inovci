@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inovci
-- 👀 I’m interested in computer scienece.
+- 👀 I’m interested in computer scienece and like playing games also.
 - 🌱 I’m currently learning Machine Learning, Flutter and others technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me inovci2@gmail.com.
