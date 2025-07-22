@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inovci
 - 👀 I’m interested in computer scienece and like playing games also.
-- 🌱 I’m currently learning news technologies as react, react native, angular, Flutter, nodejs and others technologies.
+- 🌱 I’m currently learning news technologies as NextJS, react native, python, Flutter, nodejs and AI technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me inovci2@gmail.com.
 - My whatsapp number: 00225 0141265475.
